@@ -1,0 +1,8 @@
+{
+  "what is python": "Python is a high-level, interpreted programming language known for readability.",
+  "who is the prime minister of india": "As of your runtime environment, please check a live source. This local DB is only a demo.",
+  "what is uvicorn": "Uvicorn is an ASGI web server implementation for Python, often used with FastAPI.",
+  "what is fastapi": "FastAPI is a high-performance Python web framework for building APIs.",
+  "define ai": "Artificial Intelligence (AI) refers to machines performing tasks that typically require human intelligence.",
+  "what is groq": "Groq is an AI hardware and cloud provider; here we assume you're using the Groq LLM API."
+}
